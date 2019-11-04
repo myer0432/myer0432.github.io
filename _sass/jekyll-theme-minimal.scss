@@ -4,23 +4,23 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px "Palatino", sans-serif;
+  font: 14px Arial, Helvetica, sans-serif;
   color:#000;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
   color:#000;
 }
 
 h1 {
   font-size:28px;
   text-transform:uppercase;
-  letter-spacing: 2px;
+  letter-spacing:2px;
 }
 
 h3 {
-  color:#000;
   font:25px;
 }
 
