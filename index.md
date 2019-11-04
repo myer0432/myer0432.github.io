@@ -4,7 +4,7 @@ layout: default
 
 This is the **index.md** file
 
-**UPDATE CHECK**
+**UPDATE CHECK 12:06**
 
 [Link to another page](./another-page.html).
 
