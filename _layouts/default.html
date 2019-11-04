@@ -20,12 +20,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.role }}<br>{{ site.education }}</p>
 
       </header>
       <section>
 
-      {{ content }}
+      {{ site.content }}
 
       </section>
     </div>
