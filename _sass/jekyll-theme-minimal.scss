@@ -14,8 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font:25px Arial,sans-serif;
-  text-transform:uppercase;
+  font-size:25px;
   letter-spacing:1px;
 }
 
@@ -169,7 +168,6 @@ strong {
 section {
   width:500px;
   float:right;
-  padding-left:50px;
   padding-bottom:50px;
 }
 
@@ -212,7 +210,7 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:100px 0;
     margin:0 0 20px;
   }
 
