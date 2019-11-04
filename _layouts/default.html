@@ -17,10 +17,13 @@
         <h1><a href="{{ "/" | absolute_url }}" width="200">{{ site.title }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="150"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" width="175"/>
         {% endif %}
 
-        <h3><center>{{ site.role }}<br>{{ site.education }}<br>{{ site.degree }}</center></h6>
+        <h3>{{ site.role }}<br>
+          {{ site.education }}<br>
+          {{ site.major }}<br>
+          {{ site.minor }}</h3>
       </center></header>
       <section>
 
