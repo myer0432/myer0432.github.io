@@ -1,6 +1,5 @@
-
-### A Young Professional's Website
 #### Sawyer J. Myers
+#### Personal Website
 #### Software Engineer, Data Scientist, Artist
 #### University of Oklahoma, May 2021
 #### www.sawyermyers.com
