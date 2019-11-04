@@ -1,6 +1,8 @@
 title: S.J. Myers
-logo: /media/headshot.png
+logo: /assets/img/headshot.png
 description: Website
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
+show_downloads: false
+google_analytics: false
+github.is_project_page: false
+github.is_user_page: false
