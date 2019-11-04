@@ -2,7 +2,9 @@
 layout: default
 ---
 
-This is the **index.md**, file
+This is the **index.md** file
+
+**UPDATE CHECK**
 
 [Link to another page](./another-page.html).
 
