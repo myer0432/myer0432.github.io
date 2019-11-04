@@ -11,16 +11,17 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font:14px Arial, Helvetica, sans-serif;
   color:#000;
+  line-height:1.2;
 }
 
 h1 {
-  font-size:28px;
+  font:25px "Times New Roman", Times, serif;
   text-transform:uppercase;
-  letter-spacing:2px;
+  letter-spacing:1px;
 }
 
 h3 {
-  font-size:25px;
+  font-size:18px;
 }
 
 p, ul, ol, table, pre, dl {
