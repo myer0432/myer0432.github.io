@@ -9,13 +9,13 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:Georgia, serif;
+  font:14px Arial, Helvetica, sans-serif;
   color:#000;
   letter-spacing:2px;
 }
 
 h1 {
-  font-size:28px;
+  font:28px Georgia, serif;
   text-transform:uppercase;
 }
 
@@ -29,7 +29,6 @@ p, ul, ol, table, pre, dl {
 
 a {
   color:#e8cd6b;
-  text-decoration:none;
 }
 
 a:hover, a:focus {
