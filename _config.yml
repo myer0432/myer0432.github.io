@@ -1,9 +1,10 @@
 title: Sawyer J. Myers
 logo: /assets/img/headshot.png
 role: Software Engineer and Data Scientist
-education: University of Oklahoma May 2021
+education: University of Oklahoma, May 2021
 
-theme: jekyll-theme-minimal
+
+
 show_downloads: false
 google_analytics: false
-content: ???
+theme: jekyll-theme-minimal

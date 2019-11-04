@@ -14,18 +14,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.role }}<br>{{ site.education }}</p>
+        <h3><center>{{ site.role }}<br>{{ site.education }}</center></h3>
 
       </header>
       <section>
 
-      {{ site.content }}
+      {{ content }}
 
       </section>
     </div>
