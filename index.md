@@ -1,4 +1,5 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: S.J. Myers
+logo: [GitHub](media/headshot.png)
 ---
