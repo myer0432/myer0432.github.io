@@ -2,10 +2,7 @@
 layout: featured
 ---
 
-![1](/assets/img/art/beehive.png)
-![2](/assets/img/art/teeth.png)
-![3](/assets/img/art/journals.png)
-![4](/assets/img/art/dawgs.png)
-![5](/assets/img/art/detail.png)
+![](/assets/img/art/beehive.png=200x) ![](/assets/img/art/teeth.png=200x) ![](/assets/img/art/journals.png=200x)
+![](/assets/img/art/dawgs.png=200x) ![](/assets/img/art/detail.png=200x)
 
 [back](./)
