@@ -1,3 +1,3 @@
 ---
-layout: art
+layout: featured
 ---
