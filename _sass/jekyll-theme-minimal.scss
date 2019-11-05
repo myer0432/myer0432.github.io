@@ -171,6 +171,10 @@ section {
   text-align: center;
 }
 
+section.a {
+  text-decoration:underline;
+}
+
 small {
   font-size:11px;
 }
@@ -210,8 +214,8 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:100px 0;
-    margin:0 0 20px;
+    padding:100px;
+    margin:20px;
   }
 
   header a small {
