@@ -31,12 +31,12 @@ p, ul, ol, table, pre, dl {
 }
 
 a {
-  color:#000;
+  color:#f5bf42;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#f5bf42;
+  text-decoration:underline;
 }
 
 a small {
@@ -113,7 +113,7 @@ strong {
 section {
   width:500px;
   float:right;
-  margin:0 auto
+  margin:0 auto;
   padding-left:50px;
   text-align:center;
 }
