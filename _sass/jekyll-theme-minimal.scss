@@ -131,9 +131,8 @@ hr {
 footer {
   text-align:center;
   width:auto;
-  float:none;
   bottom:10%;
-  position:static;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
