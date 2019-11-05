@@ -2,9 +2,9 @@
 layout: default
 ---
 **Data Science Intern**  
-_NASA Jet Propulsion Laboratory, Pasadena, CA_  
-September 2019 – Present  
-May 2019 – August 2019  
+_NASA Jet Propulsion Laboratory, Pasadena, CA_   
+May 2019 – August 2019
+September 2019 – Present   
 
 **Software Developer Intern**  
 _Power Costs, Inc., Norman, OK_  
