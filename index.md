@@ -3,7 +3,7 @@ layout: default
 ---
 **Data Science Intern**  
 _NASA Jet Propulsion Laboratory, Pasadena, CA_   
-May 2019 – August 2019
+May 2019 – August 2019  
 September 2019 – Present   
 
 **Software Developer Intern**  
