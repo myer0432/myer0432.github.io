@@ -4,12 +4,12 @@
 body {
   background-color: #fff;
   padding:50px;
-  font:15px Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+  font:14px Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
   color:#000;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font:16px Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+  font:14px Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
   color:#000;
 }
 
@@ -18,10 +18,11 @@ h1 {
 }
 
 h2 {
-  font-size:18px;
+  font-size:16px;
 }
 
 h3 {
+  font-size:14px;
   line-height:1.5;
 }
 
@@ -30,7 +31,7 @@ p, ul, ol, table, pre, dl {
 }
 
 a {
-  color:#fcba03;
+  color:#000;
   text-decoration:none;
 }
 
@@ -110,11 +111,11 @@ strong {
 }
 
 section {
-  text-align:center;
   width:500px;
   float:right;
   margin:0 auto
   padding-left:50px;
+  text-align:center;
 }
 
 small {
