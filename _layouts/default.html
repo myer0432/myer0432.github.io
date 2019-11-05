@@ -13,6 +13,7 @@
   </head>
   <body>
     <div class="wrapper">
+
       <header><center>
         <h1><a href="{{ "/" | absolute_url }}" width="200">{{ site.title }}</a></h1>
 
@@ -24,11 +25,9 @@
           <h3>{{ site.education }}<br>
           {{ site.degree }}<br></h3>
       </center></header>
-      <section>
 
-      <p style="text-align: center;">{{ content }}</p>
+      <section>{{ content }}</section>
 
-      </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
