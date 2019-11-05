@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <!--<header><center>
+        <h1>{{ site.title }}</h1>
+
+        {% if site.logo %}
+          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" width="200"/></a>
+        {% endif %}
+
+        <h2>{{ site.role }}</h2>
+          <h3>{{ site.education }}<br>
+          {{ site.degree }}<br></h3>
+      </center></header>-->
+
+      {{ content }}
+
+      <footer>
+        <a href="{{ "/" | absolute_url }}" width="50">home</a> ·
+        <a href="{{ "/art" }}" width="50">art</a>
+      </footer>
+
+    </div>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

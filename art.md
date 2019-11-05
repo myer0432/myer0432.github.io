@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: featured
 ---
 
 ![1](/assets/img/art/beehive.png)
