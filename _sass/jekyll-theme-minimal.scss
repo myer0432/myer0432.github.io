@@ -130,11 +130,10 @@ hr {
 
 footer {
   text-align:center;
-  width:300px;
-  left:50%;
-  right:50%;
+  width:auto;
+  float:none;
   bottom:10%;
-  position:fixed;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
