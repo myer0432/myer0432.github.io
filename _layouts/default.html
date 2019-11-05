@@ -15,7 +15,7 @@
     <div class="wrapper">
 
       <header><center>
-        <h1><a href="{{ "/" | absolute_url }}" width="200">{{ site.title }}</a></h1>
+        <h1>{{ site.title }}</h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" width="200"/>
@@ -27,6 +27,8 @@
       </center></header>
 
       <section>{{ content }}</section>
+
+      <!--<a href="{{ "/" | absolute_url }}" width="200">-->
 
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

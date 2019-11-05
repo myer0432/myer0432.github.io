@@ -4,5 +4,5 @@ role: Data Scientist · Software Engineer · Artist
 education: University of Oklahoma, May 2021
 degree: Major in Computer Science, Minor in Mathematics
 show_downloads: false
-google_analytics: false
+google_analytics: true
 theme: jekyll-theme-minimal
